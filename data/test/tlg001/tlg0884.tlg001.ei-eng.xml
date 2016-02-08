@@ -8,7 +8,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="work" xml:lang="la">Orbis Descriptio</title>
+<title type="work" xml:lang="lat">Orbis Descriptio</title>
 <author  ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0084">Dionysius Periegetes</author>
 <editor role="editor">Ekaterina Ilyushechkina</editor>
 <sponsor>University of Leipzig</sponsor>
