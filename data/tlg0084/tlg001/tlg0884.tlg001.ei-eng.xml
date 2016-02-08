@@ -55,7 +55,7 @@ Literal and line-by-line translation provided by Ekaterina Ilyushechkina for lin
 <cRefPattern 
 n="line"
 matchPattern="(.+)"
-replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='$1'])">
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='$1'])">
 <p>This pointer pattern extracts lines</p>
 </cRefPattern>
 </refsDecl>
