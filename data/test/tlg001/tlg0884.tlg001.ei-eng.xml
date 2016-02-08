@@ -55,7 +55,7 @@ Literal and line-by-line translation provided by Ekaterina Ilyushechkina for lin
 <cRefPattern 
 n="line"
 matchPattern="(.+)"
-replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='$1'])">
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:l[@n='$1'])">
 <p>This pointer pattern extracts lines</p>
 </cRefPattern>
 </refsDecl>
@@ -76,7 +76,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='
 <text>
 <body>
 <div type="edition" n="urn:cts:greekLit:tlg0084.tlg001.ei-eng" xml:lang="eng">
-<div type="textpart" subtype="poem" n="1">
+<head>Periegesis of the inhabited earth</head>
 <l n="1">Beginning to chant the earth and broad sea, and the rivers</l>
 <l n="2">and cities, and endless tribes of men, </l>
 <l n="3">I will commemorate the deep-flowing Ocean. For within it </l>
@@ -1263,7 +1263,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='
 <l n="1184">For I have now run over the swell of the entire sea,</l>
 <l n="1185">and the crooked path of the continents; so may I have</l>
 <l n="1186">from the Blessed Ones themselves a recompense worthy of my hymns.</l>
-</div>
+
 </div>
 </body>
 </text>
