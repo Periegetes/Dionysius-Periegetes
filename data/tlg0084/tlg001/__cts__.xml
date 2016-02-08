@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:greekLit:tlg0084" urn="urn:cts:greekLit:tlg0084.tlg001" xml:lang="grc" >
     <ti:title xml:lang="grc">Orbis Descriptio</ti:title>
+    <ti:title xml:lang="eng">Periegesis of the inhabited earth</ti:title>
     <ti:edition workUrn="urn:cts:greekLit:tlg0084.tlg001" urn="urn:cts:greekLit:tlg0084.tlg001.opp-grc2">
         <ti:label xml:lang="eng">
             Orbis descriptio, Geographi graeci minores Volumen Secundum
@@ -9,7 +10,7 @@
             Dionysius, Periegetes, creator; Müller, Karl, of Paris, editor
         </ti:description>
     </ti:edition>
-    <ti:translation workUrn="urn:cts:greekLit:tlg0084.tlg001" urn="urn:cts:greekLit:tlg0084.tlg001.ei-eng" >
+    <ti:translation workUrn="urn:cts:greekLit:tlg0084.tlg001" urn="urn:cts:greekLit:tlg0084.tlg001.ei-eng" xml:lang="eng">
         <ti:label xml:lang="eng">
             Periegesis of the inhabited earth
         </ti:label>
