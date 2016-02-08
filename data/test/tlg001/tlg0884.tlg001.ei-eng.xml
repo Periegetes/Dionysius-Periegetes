@@ -75,7 +75,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='
 
 <text>
 <body>
-<div type="edition" n="urn:cts:greekLit:tlg0084.tlg001.ei-eng2" xml:lang="eng">
+<div type="edition" n="urn:cts:greekLit:tlg0084.tlg001.ei-eng" xml:lang="eng">
 <div type="textpart" subtype="poem" n="1">
 <l n="1">Beginning to chant the earth and broad sea, and the rivers</l>
 <l n="2">and cities, and endless tribes of men, </l>
@@ -770,7 +770,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='
 <l n="691">rises up in lofty mountains; there the Phasis also,</l>
 <l n="692">winding along the back of the Circaean plain,</l>
 <l n="693">disgorges swift foam to the swell of the Euxine,</l>
-<l n="694 786">beginning first from the Armenian mountain.</l>
+<l n="694">beginning first from the Armenian mountain.</l>
 <l n="695">To the east and north of it lies an isthmus,</l>
 <l n="696">an isthmus between the Caspian and of the Euxine seas.</l>
 <l n="697">Upon it dwells the eastern tribe of Iberi,</l>
@@ -862,7 +862,7 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:l[@n='
 <l n="783">Next the Iris casts a pure current into the sea.</l>
 <l n="784">After this there roar the currents of the Halys river,</l>
 <l n="785">coursing northwards near the headland of Karambis,</l>
-<l n="694 786">beginning first from the Armenian mountain.</l>
+<l n="786">beginning first from the Armenian mountain.</l>
 <l n="787">After those currents the Paphlagonii dwell on the shores,</l>
 <l n="788">and is the sacred plain of the Mariandyni: there they say</l>
 <l n="789">the great brazen-voiced dog of Infernal Cronides,</l>
