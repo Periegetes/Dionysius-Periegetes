@@ -10,11 +10,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <titleStmt>
 <title type="work" xml:lang="lat">Orbis Descriptio</title>
 <author  ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0084">Dionysius Periegetes</author>
-<editor role="editor">Ekaterina Ilyushechkina</editor>
+<editor role="editor">Ekaterina Ilyshechkina</editor>
 <sponsor>University of Leipzig</sponsor>
 <sponsor>Topoi Excellence Cluster Berlin</sponsor>
 <respStmt>
-<persName>Ekaterina Ilyushechkina</persName>
+<persName>Ekaterina Ilyshechkina</persName>
 <resp>Editor</resp>
 </respStmt>
 <respStmt>
@@ -45,7 +45,7 @@ License</licence>
 
 <sourceDesc>
 <p>
-Literal and line-by-line translation provided by Ekaterina Ilyushechkina for linguistic analysis and textual alignment
+Literal and line-by-line translation provided by Ekaterina Ilyshechkina for linguistic analysis and textual alignment
 </p>
 </sourceDesc>
 </fileDesc>
