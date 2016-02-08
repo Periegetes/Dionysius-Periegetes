@@ -1,0 +1,1 @@
+In this section the already cts-compliant opp-grc2 should be added, when we obtain a copyright-free version of the text. 
